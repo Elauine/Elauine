@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @Elauine
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Machine Learning and Deep Learning
+
+### About Me
+
+Data professional with a strong background in statistics, econometrics, and data science, specializing in data analysis, statistical modeling, and machine learning. Proficient in programming with Python and SQL, as well as data visualization with Power BI. Skilled at transforming complex datasets into actionable insights to support decision-making in economic and business contexts.
 
 
 <!---
